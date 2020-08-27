@@ -22,9 +22,8 @@ public class Main {
 
 Process finished with exit code 0
 
-Bug Report
+Bug Report https://github.com/dsnaydina/Javaforqa_-HT-2/issues/1#issue-687562178
 
-ожидаемый результата - 25000000000
-фактический результат -  -1794967296 
+ 
     
    рекомендации -проверить тип переменных в приложении. 
